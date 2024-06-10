@@ -1,1 +1,2 @@
 # Speakx-churn-customer-
+A machine learning algorithm that predicts the probability of a client leaving a firm is called a churn prediction model. It looks for patterns and trends in past data to determine whether a customer is likely to leave. To forecast a client's likelihood of leaving, the model can be trained on a variety of factors, including usage patterns, demographics, and customer behaviour. Businesses can lower churn rates and boost revenue by taking proactive steps to retain customers who are identified as at-risk early on.
